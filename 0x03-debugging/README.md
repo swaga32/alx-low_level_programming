@@ -1,1 +1,2 @@
-jack debugging
+#!/bin/bash
+
