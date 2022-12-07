@@ -6,7 +6,7 @@ RM = rm -f
 
 # make all == makes executable
 all: m.h $(OBJ)
- 	$(CC) $(OBJ) -o $(NAME)
+	$(CC) $(OBJ) -o $(NAME)
 
 # deletes tmp files & executable
 clean:
